@@ -1,0 +1,1 @@
+This is a simple web application built with HTML, CSS, and JavaScript that provides information about different countries. Users can search for a specific country and view details such as population, capital city, languages spoken, and more.
